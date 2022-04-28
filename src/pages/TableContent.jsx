@@ -33,9 +33,9 @@ function TableContent() {
 					{tableOfContent.map((content, index) => {
 						return (
 							<React.Fragment key={content}>
-								<a href={links[index]}>
+								<div>
 									{index + 1}. {content}
-								</a>
+								</div>
 							</React.Fragment>
 						);
 					})}
