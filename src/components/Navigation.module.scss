@@ -1,0 +1,25 @@
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 4rem;
+	width: calc(100% - 8rem);
+}
+
+.navigationRightOnly {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+
+	padding: 4rem;
+	width: calc(100% - 8rem);
+}
+.navigationLeftOnly {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+	padding: 4rem;
+	width: calc(100% - 8rem);
+}
