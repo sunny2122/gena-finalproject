@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gena-finalproject/static/css/main.52ee4424.css",
-    "main.js": "/gena-finalproject/static/js/main.2678dfd6.js",
+    "main.js": "/gena-finalproject/static/js/main.e422322d.js",
     "static/js/787.5a35f3e6.chunk.js": "/gena-finalproject/static/js/787.5a35f3e6.chunk.js",
     "static/media/bg-usa.jpeg": "/gena-finalproject/static/media/bg-usa.113218d3628c4480fdb3.jpeg",
     "index.html": "/gena-finalproject/index.html",
     "main.52ee4424.css.map": "/gena-finalproject/static/css/main.52ee4424.css.map",
-    "main.2678dfd6.js.map": "/gena-finalproject/static/js/main.2678dfd6.js.map",
+    "main.e422322d.js.map": "/gena-finalproject/static/js/main.e422322d.js.map",
     "787.5a35f3e6.chunk.js.map": "/gena-finalproject/static/js/787.5a35f3e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52ee4424.css",
-    "static/js/main.2678dfd6.js"
+    "static/js/main.e422322d.js"
   ]
 }
