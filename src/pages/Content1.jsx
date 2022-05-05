@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./Content1.module.scss";
 import Navigation from "../components/Navigation";
 import { useNavigate } from "react-router-dom";
+import globalstyles from "../App.module.scss";
 function Content1() {
 	let navigate = useNavigate();
 	return (
@@ -10,14 +11,14 @@ function Content1() {
 				<img className={styles.background} src="assets/bg-content1.jpg" alt="bg-content1" />
 			</div>
 			<div className={styles.text}>
-				<h1>Introduction</h1>
-				<p>
+				<h1 className={globalstyles.heading}>Introduction</h1>
+				<p className={globalstyles.paragraph}>
 					During the period 1877 to 1950, the practice of lynching took away <span className={styles.highlighted}>4075</span> African
 					American lives (“Lynching in America Report”). Women, men, and children died under this racial violence. Following the Civil War,
 					when black individuals began embracing their new rights, the Southern white people and the government started looking for methods
 					to undermine black people’s freedom and rights.
 				</p>
-				<p>
+				<p className={globalstyles.paragraph}>
 					Lynching emerged as terrorism to the black people as the violent acts were widely practiced to torment victims and suppressed
 					black people’s fight for civil rights. The victims are mostly hung dead on a tree and even burnt alive. This use of racial terror
 					in the 19th century became apparent as a form of racial control, along with Jim Crow laws, that simultaneously traumatized the

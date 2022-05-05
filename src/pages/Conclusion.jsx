@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./Conclusion.module.scss";
 import Navigation from "../components/Navigation";
 import { useNavigate } from "react-router-dom";
+import globalstyles from "../App.module.scss";
 function Conclusion() {
 	let navigate = useNavigate();
 	return (
@@ -11,7 +12,7 @@ function Conclusion() {
 			</div>
 			<div className={styles.text}>
 				<div className={styles.header}>
-					<h1>Conclusion</h1>
+					<h1 className={globalstyles.heading}>Conclusion</h1>
 					{/* <p>During the period 1877 to 1950, undermine black people’s freedom and rights.</p> */}
 				</div>
 				<p>

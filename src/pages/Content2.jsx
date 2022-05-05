@@ -10,9 +10,10 @@ function Content2() {
 			<div className={styles.text}>
 				<h1 className={globalStyles.heading}>What is Lynching?</h1>
 				<p className={globalStyles.paragraph}>
-					During the period 1877 to 1950, <span className={styles.highlighted}>4075</span> African American lives were taken through the act
-					of lynching (CITATION). Following the Civil War when black individuals began embracing their new rights, the Southern white people
-					and the government began looking for methods to undermine black people’s freedom and rights.
+					Lynching was prevalent in the United States from the Reconstruction period to the 1950s, particularly in the Southern states. The
+					practice involves criminal accusations and many victims did not undergo legal trials. Lynching is typically accompanied by the
+					torment and murder of victims. Many of the lynching practices were held in public, with white communities as attendees witnessing
+					the act of lynching.{" "}
 				</p>
 				{/* <h1 className={globalStyles.heading}>How did Lynching Emerge?</h1>
 				<p className={globalStyles.paragraph}>

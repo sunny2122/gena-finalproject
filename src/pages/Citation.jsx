@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./Citation.module.scss";
 import Navigation from "../components/Navigation";
 import { useNavigate } from "react-router-dom";
+import globalstyles from "../App.module.scss";
 function Citation() {
 	let navigate = useNavigate();
 
@@ -20,7 +21,7 @@ function Citation() {
 		<div className={styles.container}>
 			<div className={styles.text}>
 				<div className={styles.header}>
-					<h1>Citations</h1>
+					<h1 className={globalstyles.heading}>Citations</h1>
 					<p>APA Citations</p>
 				</div>
 				<div className={styles.citations}>

@@ -2,6 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import Navigation from "../components/Navigation";
 import styles from "./TableContent.module.scss";
+import globalstyles from "../App.module.scss";
 function TableContent() {
 	let navigate = useNavigate();
 
@@ -28,7 +29,7 @@ function TableContent() {
 	return (
 		<div className={styles.container}>
 			<div className={styles.text}>
-				<h1>Table of Contents</h1>
+				<h1 className={globalstyles.heading}>Table of Contents</h1>
 				<div className={styles.content}>
 					{tableOfContent.map((content, index) => {
 						return (

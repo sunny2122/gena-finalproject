@@ -8,7 +8,7 @@ function Content5() {
 	return (
 		<div className={styles.container}>
 			<div className={styles.text}>
-				<h1 className={`${globalStyles.heading} ${styles.heading}`}>RACE II & III: Jim Crow & Civil Rights Movement </h1>
+				<h1 className={`${globalStyles.heading} ${styles._}`}>RACE II & III: Jim Crow & Civil Rights Movement </h1>
 				{/* <p className={`${globalStyles.paragraph} ${styles. }`}>Criminalization & Lynching as methods of racial violence</p> */}
 				<div className={styles.images}>
 					<div className={styles.left}>
