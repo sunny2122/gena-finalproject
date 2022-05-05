@@ -8,8 +8,8 @@ function TableContent() {
 	const tableOfContent = [
 		"Introduction",
 		"Background of Lynching",
-		"Lynching as a tool for racial control to maintain white supremacy PT1",
-		"Lynching as a tool for racial control to maintain white supremacy PT2",
+		"Lynching as a tool for racial control to maintain white supremacy",
+		"Lynching as a tool for racial control to maintain white supremacy continue",
 		"Themes evident through lynching: Race II & III",
 		"Conclusion",
 		"Citations",

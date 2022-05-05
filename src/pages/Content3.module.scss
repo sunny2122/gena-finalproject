@@ -20,34 +20,45 @@
 	align-items: center;
 
 	.heading {
-		font-size: 4em;
+		font-size: 2em;
 	}
 
 	.paragraph {
 		font-size: 1.5em;
+		font-weight: 300;
 	}
 
 	.analysis {
-		display: flex;
-		justify-content: space-between;
-		align-items: stretch;
-		gap: 1rem;
+		// display: flex;
+		// justify-content: space-between;
+		// align-items: flex-start;
+		// gap: 1rem;
 
-		.analysisContent,
-		img {
-			width: 50%;
+		// .analysisContent,
+		// img {
+		// 	width: 50%;
+		// }
+		h6 {
+			font-size: 1.5rem;
+			color: rgba(222, 198, 185, 1);
+			font-weight: 900;
+			margin: 2rem auto 1rem;
 		}
 
 		.analysisContent {
-			flex: 1;
-			display: flex;
-			flex-direction: column;
-			justify-content: flex-start;
-			gap: 1rem;
-			h6 {
-				font-size: 1.5rem;
-				color: rgba(222, 198, 185, 1);
-				font-weight: 900;
+			// flex: 1;
+			// display: flex;
+			// flex-direction: column;
+			// justify-content: flex-start;
+			// gap: 1rem;
+			img {
+				float: right;
+				height: auto;
+				width: 50%;
+			}
+
+			.paragraph {
+				margin-bottom: 1rem;
 			}
 		}
 	}
