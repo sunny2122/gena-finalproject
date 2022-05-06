@@ -42,14 +42,12 @@ function Content4() {
 							have enacted on the black individuals. The white viewers enjoyed the act of lynching as they were shown excited and
 							satisfied like the two white males on the left of the picture. The man in the middle pointing at the corpses suggests how
 							the white communities view the deaths of the black individuals as trophies of their justified actions in a way that
-							reassures white supremacy. His gesture is as if warning the black individuals that they
-						</p>
-						<p className={`${globalStyles._} ${styles.paragraph}`}>
-							would end up in a similar situation if they continue to compete for resources and fight for political participation and
-							civil rights. The open celebration and focus on the white mob have indicated how the white community has adopted lynching
-							to spread fear to reestablish white supremacy. Especially during the Jim Crow era, when fear was used to assert white
-							power, lynching managed to heighten the fear of the immediate victims and the African-American community as a whole. The
-							photographs further remind and warn the African-American groups that they might be lynched if they continued to resist the
+							reassures white supremacy. His gesture is as if warning the black individuals that they would end up in a similar
+							situation if they continue to compete for resources and fight for political participation and civil rights. The open
+							celebration and focus on the white mob have indicated how the white community has adopted lynching to spread fear to
+							reestablish white supremacy. Especially during the Jim Crow era, when fear was used to assert white power, lynching
+							managed to heighten the fear of the immediate victims and the African-American community as a whole. The photographs
+							further remind and warn the African-American groups that they might be lynched if they continued to resist the
 							subjugations like segregation under the Jim Crow laws.
 						</p>
 					</div>
