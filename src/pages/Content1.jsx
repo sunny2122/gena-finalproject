@@ -14,15 +14,14 @@ function Content1() {
 				<h1 className={globalstyles.heading}>Introduction</h1>
 				<p className={globalstyles.paragraph}>
 					During the period 1877 to 1950, the practice of lynching took away <span className={styles.highlighted}>4075</span> African
-					American lives (“Lynching in America Report”). Women, men, and children died under this racial violence. Following the Civil War,
-					when black individuals began embracing their new rights, the Southern white people and the government started looking for methods
-					to undermine black people’s freedom and rights.
+					American lives (“Lynching in America Report”). African women, men, and children died under this racial violence. Following the
+					Civil War, when black individuals began embracing their new rights, the Southern white people and the government started looking
+					for methods to undermine black people’s freedom and rights.
 				</p>
 				<p className={globalstyles.paragraph}>
-					Lynching emerged as terrorism to the black people as the violent acts were widely practiced to torment victims and suppressed
-					black people’s fight for civil rights. The victims are mostly hung dead on a tree and even burnt alive. This use of racial terror
-					in the 19th century became apparent as a form of racial control, along with Jim Crow laws, that simultaneously traumatized the
-					Black individuals to maintain white supremacy.
+					Lynching emerged as terrorism to the black people as the violent acts were widely practiced to torment victims and racially
+					control the black individuals. The victims are mostly hung dead on a tree and even burnt alive. This use of racial terror in the
+					19th century, along with Jim Crow laws, simultaneously traumatized the black individuals to reestablish white supremacy.
 				</p>
 				{/* <p>
 					During the period 1877 to 1950, <span className={styles.highlighted}>4075</span> African American lives were taken through the act

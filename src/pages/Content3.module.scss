@@ -51,10 +51,17 @@
 			// flex-direction: column;
 			// justify-content: flex-start;
 			// gap: 1rem;
-			img {
+			.image {
 				float: right;
 				height: auto;
 				width: 50%;
+
+				font-size: 1.2rem;
+				font-weight: 500;
+
+				img {
+					width: 100%;
+				}
 			}
 
 			.paragraph {

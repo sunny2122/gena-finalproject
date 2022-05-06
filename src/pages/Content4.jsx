@@ -8,7 +8,7 @@ function Content4() {
 	return (
 		<div className={styles.container}>
 			<div className={styles.text}>
-				<h1 className={`${globalStyles.heading} ${styles._}`}>Lynching as a tool for racial control to maintain white supremacy continue</h1>
+				<h1 className={`${globalStyles.heading} ${styles._}`}>Lynching as a tool to reestablish white supremacy continue</h1>
 				{/* <p className={`${globalStyles.paragraph} ${styles.paragraph}`}>
 					During the period 1877 to 1950, <span className={styles.highlighted}>4075</span> African American lives were taken through the act
 					of lynching (CITATION). Following the Civil War when black individuals began embracing their new rights, the Southern white people

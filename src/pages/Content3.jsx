@@ -8,23 +8,27 @@ function Content3() {
 	return (
 		<div className={styles.container}>
 			<div className={styles.text}>
-				<h1 className={`${globalStyles.heading} ${styles.heading}`}>Lynching as a tool for racial control to maintain white supremacy</h1>
+				<h1 className={`${globalStyles.heading} ${styles.heading}`}>Lynching as a tool to reestablish white supremacy</h1>
 				<p className={`${globalStyles.paragraph} ${styles.paragraph}`}>
 					After the Civil War, the Reconstruction period provided hope and change to the formerly enslaved groups. African Americans were
 					eager to welcome a new step toward independence, equality, and citizenship. The period marked growing political participation of
-					Black men’s eligibility to vote and election. Education also became a priority. Yet, despite the brimming hope of a new start and
-					embracing their rights, the Reconstruction period soon became the African American’s excruciating nightmare.
+					Black men’s eligibility to vote and election. Education also became a priority. Yet, despite the brimming hope of a new start, the
+					Reconstruction period soon became the African American’s excruciating nightmare.
 				</p>
 				<p className={`${globalStyles.paragraph} ${styles.paragraph}`}>
 					Though lynching had existed prior to slavery, the practice increased during Reconstruction as the white communities— many of the
 					whites were landowners and were not as economically prosperous— felt threatened by the rise of the African Americans. The white
-					communities adopted violent measures like mass lynchings to prevent blacks’ political participation in response to the threat. As
-					such, the white groups were able to form a regime of white supremacy that suppressed and exploited the black people.
+					communities adopted violent measures like mass lynching to prevent blacks’ participation in response to the threat. As such, the
+					white groups were able to form a regime of white supremacy that suppressed and exploited the black people.
 				</p>
 				<div className={styles.analysis}>
 					<h6>Primary Source Analysis</h6>
 					<div className={styles.analysisContent}>
-						<img className={styles.image} src="assets/bg-content3.jpg" alt="content3" />
+						<h6 className={styles.image}>
+							<img className={styles._} src="assets/bg-content3.jpg" alt="content3" />
+							Digital Public Library of America. (n.d.). "Lynching". Digital Public Library of America. Retrieved April 20, 2022, from
+							https://dp.la/primary-source-sets/ida-b-wells-and-anti-lynching-activism/sources/1120
+						</h6>
 						<p className={`${globalStyles._} ${styles.paragraph}`}>
 							Southern lynching was, in a way, intended to reestablish white supremacy as the white communities feared the growing black
 							social and economic participation. Though many victims were lynched often due to the accusation of rape, a majority of the
@@ -42,9 +46,10 @@ function Content3() {
 							individuals viewed it as a threatening remark to their race. On the tree, there are two black victims. They are brutally
 							tortured before death as blood is stained on their clothes. Another white man on the tree is perhaps cutting the rope to
 							put the body down or even taking parts of the body as souvenirs. Adding on, as shown through how the white observers
-							cooperatively look towards the camera, the photograph is perhaps also taken to be sold as postcards or in newspapers.
-							Through the photo, lynching is a flagrant public display that appeared as a show with the white audiences viewing the act
-							as a just action towards the black groups.
+							cooperatively look towards the camera, the photograph is perhaps also taken to be sold as postcards or in newspapers. The
+							lynching photographs show open celebration. The camera captures people being well-posed so that the white individuals walk
+							away with evidence showing that they had a wonderful day. Through the photo, lynching is a flagrant public display that
+							appeared as a show with the white audiences viewing the act as a celebration in asserting their white dominance.
 						</p>
 						<p className={`${globalStyles._} ${styles.paragraph}`}>
 							Lynching appeared as an action to reassert the diminishing white authority and perpetuated the thinking that the black
@@ -52,9 +57,9 @@ function Content3() {
 							without any sympathy. The spectators comprise a considerable number of white individuals that view such public festive
 							community gatherings as a show; the audience seems used to such an act of lynching as a justified act to punish the
 							African Americans for their alleged crimes. The white observer’s expressionless attitude towards the victims further shows
-							how the whites view the black people as inferior, and that the blacks “deserved” such treatment. To the white communities,
-							the black individuals should be back in their proper place than trying to compete against the white people’s resources. As
-							shown through this, it is evident that lynching served to racially control the black people in preventing black prominence
+							how the whites view the black people as inferior, and that the blacks deserved such treatment without any doubt. To the
+							white communities, the black individuals should be back in their proper place than trying to compete against the white
+							people’s resources. As shown through this, it is evident that lynching served as a tool in preventing black prominence
 							while assuring white supremacy in the economic and political spheres.
 						</p>
 					</div>
